@@ -26,7 +26,8 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+ep missing: firebase@^5.3.0, required by re-base@4.0.0
+npm ERR! peer dep missing: ajv@^6.9.1, required by ajv-keywords@3.4.1
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**

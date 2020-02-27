@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^7.9.1",
+    "@react-firebase/auth": "^0.2.10",
+    "firebase": "^4.8.0",
     "prop-types": "^15.6.2",
     "re-base": "^4.0.0",
     "react": "^16.5.2",
